@@ -1,5 +1,5 @@
 node_modules/
+tmp/
 server.js
-callback.html
 learn.html
 .DS_Store
